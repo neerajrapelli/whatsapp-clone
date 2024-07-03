@@ -1,11 +1,5 @@
 # Whatsapp clone (fullstack project) Spring boot 3, Angular 18, Bootstrap, PostgreSQL, Keycloak (2024) (Frontend)
 
-Angular frontend of the whatsapp clone
-
-[Video tutorial](https://youtu.be/Ot7QE_gzhtA)
-
-[Spring boot Backend](https://github.com/C0de-cake/whatsapp-clone-backend)
-
 ### Key Features:
 - 💬 Real-time messaging
 - 👥 Conversations management
